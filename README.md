@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+
+
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
 <!--
-**BundeAmos/BundeAmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-----
+Credits: [CyrisXD](https://github.com/CyrisXD)
+
+Last Edited on: 21/02/2021
