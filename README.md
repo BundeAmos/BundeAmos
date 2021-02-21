@@ -13,4 +13,3 @@ work on projects involving machine learning, nlp or
 any analyses involving human behavior. In my spare time, you will often
 find me working on personal [projects]()  which typically reside on the intersection of AI and human behavior. 
 
-<details>
