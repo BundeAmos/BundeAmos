@@ -1,25 +1,16 @@
-### Hi there 👋
 
+![image](https://raw.githubusercontent.com/MaartenGr/MaartenGr/master/images/header.png)
 
+<p align="center">
+<a href="hhttps://www.linkedin.com/in/amos-bunde/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="BundeAmoh"/></a>
+<a href="https://twitter.com/BundeAmoh" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/maartengr" alt="BundeAmoh"/></a>
 
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+</p>
 
+I'm a Computational statistician turned data scientist/engineer who is passionate about using artificial
+intelligence to make the world a slightly better place. Typically, I like to 
+work on projects involving machine learning, nlp or 
+any analyses involving human behavior. In my spare time, you will often
+find me working on personal [projects]()  which typically reside on the intersection of AI and human behavior. 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
------
-Credits: [Amos Bunde](https://github.com/CyrisXD)
-
-Last Edited on: 21/02/2021
+<details>
