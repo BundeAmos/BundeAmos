@@ -1,5 +1,5 @@
 
-![image](https://raw.githubusercontent.com/MaartenGr/MaartenGr/master/images/header.png)
+![image](https://github.com/BundeAmos/BundeAmos/blob/main/bundeamos.png)
 
 <p align="center">
 <a href="hhttps://www.linkedin.com/in/amos-bunde/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="BundeAmoh"/></a>
