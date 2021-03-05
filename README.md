@@ -21,7 +21,7 @@ find me working on personal [projects]()  which typically reside on the intersec
 <tbody>
  <tr>
 <td align="center" width="20%">
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<img height=60px src="https://github.com/BundeAmos/BundeAmos/blob/main/aws-lambda.png"> 
 </td>
 
 <td align="center" width="20%"> 
@@ -44,13 +44,35 @@ find me working on personal [projects]()  which typically reside on the intersec
 <img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Slack.png"> 
 </td>
 
-<td align="center" width="20%">
-<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Docker.png"> 
-</td>
-
 
 </tr>
 
+<tr>
+<td align="center" width="20%">
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/kafka.jpg"> 
+</td>
+ 
+<td align="center" width="20%">
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/amazon-vpc.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/amazon-redshift.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/amazon-ec2.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Spark.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Python.png"> 
+</td>
+
+</tr>
 </tbody>
 </table>
 
