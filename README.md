@@ -14,7 +14,7 @@ any analyses involving human behavior. In my spare time, you will often
 find me working on personal [projects]()  which typically reside on the intersection of AI and human behavior. 
 
 
-## Technical Stack :computer:
+## Technical Stack : Data Engineering, Science & Artificial Intelligence:
 
 <br>
 <table>
@@ -25,7 +25,7 @@ find me working on personal [projects]()  which typically reside on the intersec
 </td>
 
 <td align="center" width="20%"> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
+<img height=60px src="https://github.com/BundeAmos/BundeAmos/blob/main/AWS-Glue.png"> 
 </td>
 
 <td align="center" width="20%">
