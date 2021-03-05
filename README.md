@@ -31,9 +31,7 @@ find me working on personal [projects]()  which typically reside on the intersec
 <td align="center" width="20%">
 <img height=60px src="https://github.com/BundeAmos/BundeAmos/blob/main/amazon-sqs.png"> 
 </td>
-</tr>
 
-<tr>
 <td align="center" width="20%">
 <img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/amazon-vpc.png"> 
 </td>
@@ -41,14 +39,14 @@ find me working on personal [projects]()  which typically reside on the intersec
 <td align="center" width="20%">
 <img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Node.png"> 
 </td>
-
-<td align="center" width="20%">
-<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Slack.png"> 
-</td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Slack.png"> 
+</td>
+ 
+ <td align="center" width="20%">
 <img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Docker.png"> 
 </td>
 
@@ -60,6 +58,7 @@ find me working on personal [projects]()  which typically reside on the intersec
 <img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Python.png"> 
 </td>
 </tr>
+
 
 <tr>
 <td align="center" width="20%">
