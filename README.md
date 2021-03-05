@@ -47,25 +47,7 @@ find me working on personal [projects]()  which typically reside on the intersec
 <img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Docker.png"> 
 </td>
 
-<td align="center" width="20%">
-<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Ansible.png"> 
-</td>
 
-<td align="center" width="20%">
-<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Python.png"> 
-</td>
-
-<td align="center" width="20%">
-<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Visual_Studio_Code_logo.png"> 
-</td>
-
-<td align="center" width="20%"> 
-<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Ansible.png"> 
-</td>
-
-<td align="center" width="20%"> 
-<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Node.png"> 
-</td>
 </tr>
 
 </tbody>
