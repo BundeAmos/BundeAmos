@@ -49,7 +49,7 @@ find me working on personal [projects]()  which typically reside on the intersec
 
 <tr>
 <td align="center" width="20%">
-<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Docker"> 
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Docker.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -63,15 +63,15 @@ find me working on personal [projects]()  which typically reside on the intersec
 
 <tr>
 <td align="center" width="20%">
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Visual_Studio_Code_logo.png"> 
 </td>
 
 <td align="center" width="20%"> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Ansible.png"> 
 </td>
 
 <td align="center" width="20%"> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Node.png"> 
 </td>
 </tr>
 
