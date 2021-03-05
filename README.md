@@ -70,7 +70,7 @@ find me working on personal [projects]()  which typically reside on the intersec
 </td>
 
 <td align="center" width="20%">
-<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Slack.png"> 
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Slack.jpg"> 
 </td>
 
 <td align="center" width="20%">
