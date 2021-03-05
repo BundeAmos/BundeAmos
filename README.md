@@ -40,11 +40,6 @@ find me working on personal [projects]()  which typically reside on the intersec
 <img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Node.png"> 
 </td>
 
-<td align="center" width="20%">
-<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Slack.png"> 
-</td>
-
-
 </tr>
 
 <tr>
@@ -68,10 +63,29 @@ find me working on personal [projects]()  which typically reside on the intersec
 <img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Spark.png"> 
 </td>
 
+
+</tr>
 <td align="center" width="20%">
 <img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Python.png"> 
 </td>
 
+<td align="center" width="20%">
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Slack.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Django.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Ansible.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Html.png"> 
+</td>
+
+<tr>
 </tr>
 </tbody>
 </table>
