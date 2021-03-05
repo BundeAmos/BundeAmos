@@ -39,11 +39,12 @@ find me working on personal [projects]()  which typically reside on the intersec
 <td align="center" width="20%">
 <img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Node.png"> 
 </td>
+
 <td align="center" width="20%">
 <img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Slack.png"> 
 </td>
- 
- <td align="center" width="20%">
+
+<td align="center" width="20%">
 <img height=65px src="https://github.com/BundeAmos/BundeAmos/blob/main/Docker.png"> 
 </td>
 
