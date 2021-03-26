@@ -13,5 +13,14 @@ work on projects involving machine learning, nlp or
 any analyses involving human behavior. In my spare time, you will often
 find me working on personal [projects](https://github.com/BundeAmos/Projects)  which typically reside on the intersection of AI and human behavior. 
 
-
+<details>
+<summary>Projects</summary>
+ 
+| Project | Tags |
+| --- | --- |
+| [**CART**: Decision Trees]() | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [**KNN**:Classifications]() | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-MMR-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [**Ensemble Learning**: Voting,Bagging, Gradient Boosting,, Boosting, Random Forest]() | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Edit%20Distance-red"> <img src="https://img.shields.io/badge/-Word%20Embeddings-red"> <img src="https://img.shields.io/badge/-Python-blue">|
+  
+</details> 
 
